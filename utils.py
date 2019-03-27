@@ -6,7 +6,7 @@ Created on Fri Jan 19 15:15:08 2018
 @author: vnguye04
 """
 import numpy as np
-from math import radians, cos, sin, asin, sqrt
+from math import radians, cos, sin, asin, sqrt, fmod
 import sys
 sys.path.append('..')
 sys.path.append('Data')
